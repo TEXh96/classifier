@@ -1,0 +1,6 @@
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/duanjing\20240315151446194_071.png duanjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/duanjing\360797473125433344_4_org_086.png duanjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/duanjing\360797530050527232_4_org_081_color_mask.png duanjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/duanjing\360797530050527232_4_org_084.png duanjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/duanjing\20240315153444381_112.png duanjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/duanjing\20240315151451968_068.png duanjing

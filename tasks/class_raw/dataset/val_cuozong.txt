@@ -1,0 +1,5 @@
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuozong\359765829933334528_4_org_090.png cuozong
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuozong\20240315153444381_087.png cuozong
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuozong\360796761268158464_2_org_064.png cuozong
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuozong\360082760318058496_2_org_048.png cuozong
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuozong\20240315153444381_089.png cuozong

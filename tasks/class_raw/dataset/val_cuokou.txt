@@ -1,0 +1,6 @@
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuokou\20240315152304766_068.png cuokou
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuokou\20240315154033400_067.png cuokou
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuokou\20240315154033400_068_color_mask.png cuokou
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuokou\20240315154033400_070.png cuokou
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuokou\20240315154027406_067.png cuokou
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/cuokou\20240315152304766_070.png cuokou

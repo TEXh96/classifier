@@ -1,0 +1,4 @@
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/shuangjing\360796761268158464_2_org_053.png shuangjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/shuangjing\360796755027034112_2_org_052.png shuangjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/shuangjing\360797551516975104_2_org_075.png shuangjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/shuangjing\360796761268158464_2_org_049.png shuangjing

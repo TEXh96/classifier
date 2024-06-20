@@ -1,0 +1,3 @@
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/songjingjing\20240315152304766_080.png songjingjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/songjingjing\360797551516975104_2_org_103.png songjingjing
+G:\piBu_STA_data\train_720x450_rs_512x320\jx_6class\class_raw/songjingjing\20240315152304766_081.png songjingjing
